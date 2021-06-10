@@ -1,0 +1,10 @@
+.detail > img {
+  width: 150px;
+  transition: transform 450ms;
+  cursor: pointer;
+  margin: 10px;
+}
+.detail > img:hover {
+  transform: scale(1.08);
+  opacity: 1;
+}
